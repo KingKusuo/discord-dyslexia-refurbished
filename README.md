@@ -18,7 +18,7 @@
 
 ### BetterDiscord
 
-1. Download the theme file [here](https://betterdiscord.net/ghdl?id=3474).
+1. Download the theme file [here](https://github.com/KingKusuo/discord-dyslexia-refurbished/blob/main/dyslexia.theme.css).
 2. Open your BetterDiscord themes folder.
 3. Drag the file you downloaded into the folder. Ensure there isn't a copy identifier (eg `Name.theme(1).css`) at the end of the filename.
 
