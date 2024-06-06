@@ -1,4 +1,4 @@
-<h1 align="center">discord-dyslexia</h1>
+<h1 align="center">discord-dyslexia-refurbished</h1>
   
 <p align="center">
   <a href="#discord-dyslexia">Overview</a> |
@@ -22,20 +22,12 @@
 2. Open your BetterDiscord themes folder.
 3. Drag the file you downloaded into the folder. Ensure there isn't a copy identifier (eg `Name.theme(1).css`) at the end of the filename.
 
-### Powercord
+<a href="https://github.com/Vencord/Vesktop">### Vencord</a>
 
-> Ensure you have [git](https://git-scm.com/) installed before downloading powercord or vizality related content.
-
-1. Open your terminal of choice.
-2. Run `cd powercord/src/Powercord/themes && git clone https://github.com/DiscordStyles/discord-dyslexia`.
-
-### Vizality
-
-> Ensure you have [git](https://git-scm.com/) installed before downloading powercord or vizality related content.
-
-1. Open your terminal of choice.
-2. Run `cd vizality/addons/themes && git clone https://github.com/DiscordStyles/discord-dyslexia`.
+1. Open Vencord configurations and select "Themes"
+2. Select "Online Themes" and paste the <a href="https://raw.githubusercontent.com/KingKusuo/discord-dyslexia-refurbished/main/dyslexia.theme.css">raw link of this file</a> on the box
 
 # Credits
 - [OpenDyslexic font](https://opendyslexic.org/)
 - [Qwerasd205](https://github.com/qwerasd205)
+- [@pedrock.](https://github.com/KingKusuo)
