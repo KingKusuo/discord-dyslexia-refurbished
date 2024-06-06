@@ -10,7 +10,10 @@
   <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/4duLD8V.png">
 <p align="center">
 
-<p align="center">A simple discord theme which makes the app more accommodating to people with dyslexia.</p>
+<p align="center">A simple discord theme which makes the app more accommodating to people with dyslexia.
+
+What Discord-Dyslexia-Refurbished is is an updated version of the original theme that actually changes all of the fonts in discord to the OpenDyslexic font.
+</p>
 
 ---
 
