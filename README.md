@@ -19,13 +19,13 @@ What Discord-Dyslexia-Refurbished is is an updated version of the original theme
 
 # Installation
 
-### BetterDiscord
+### <a href="https://github.com/BetterDiscord/BetterDiscord" target="_blank">BetterDiscord</a>
 
 1. Download the theme file [here](https://github.com/KingKusuo/discord-dyslexia-refurbished/blob/main/dyslexia.theme.css).
 2. Open your BetterDiscord themes folder.
 3. Drag the file you downloaded into the folder. Ensure there isn't a copy identifier (eg `Name.theme(1).css`) at the end of the filename.
 
-### <a href="https://github.com/Vencord/Vesktop">Vencord</a>
+### <a href="https://github.com/Vencord/Vesktop" target="_blank">Vencord</a>
 
 1. Open Vencord configurations and select "Themes"
 2. Select "Online Themes" and paste the <a href="https://raw.githubusercontent.com/KingKusuo/discord-dyslexia-refurbished/main/dyslexia.theme.css">raw link of this file</a> on the box
