@@ -1,6 +1,6 @@
 /**
  * @name Dyslexia
- * @author Tropical#8908 & Qwerasd#5202
+ * @author Tropical#8908 & Qwerasd#5202 (Modified by @pedrock.)
  * @version 1.0
  * @description A simple discord theme which makes the app more accommodating to people with dyslexia.
  * @source https://github.com/DiscordStyles/discord-dyslexia/
@@ -20,6 +20,21 @@
     --word-spacing: 3px;       /* Word spacing */
     --letter-spacing: 0.25px;  /* Letter Spacing */
     --message-line-spacing: 2; /* Line spacing on messages */
+    --font-primary: "OpenDyslexic";
+    --font-display: "OpenDyslexic";
+    --font-headline: "OpenDyslexic";
+}
+
+/* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
+
+.typeWindows_e41dab>.wordmark__5b8c9:before {
+    content: "Discord";
+    color: rgba(255, 255, 255, .7);
+    font-size: 14px;
+    text-shadow: 0 0 3px #000;
+}
+.wordmark__5b8c9 > svg {
+  display: none;
 }
 
 /* ----------------------------------------------------------------------- */
