@@ -1,7 +1,7 @@
 <h1 align="center">discord-dyslexia-refurbished</h1>
   
 <p align="center">
-  <a href="#discord-dyslexia">Overview</a> |
+  <a href="#discord-dyslexia-refurbished">Overview</a> |
   <a href="#installation">Installation</a> |
   <a href="#credits">Credits</a>
 </p>
