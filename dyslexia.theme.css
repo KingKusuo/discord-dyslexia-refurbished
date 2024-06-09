@@ -25,6 +25,11 @@
     --font-headline: "OpenDyslexic";
 }
 
+/*Removes the unnecessary scroll arrows besides some text*/
+.eyebrow_b3f8ba{
+  width: 260px;
+}
+
 /* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
 
 .typeWindows_e41dab>.wordmark__5b8c9:before {
