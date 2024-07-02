@@ -28,17 +28,18 @@
 /*Removes the unnecessary scroll arrows besides some text*/
 .eyebrow_dc00ef.headerText_a0{
   width: 260px;
+  height: 1.1rem;
 }
 
 /* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
 
-.typeWindows_e41dab>.wordmark__5b8c9:before {
+.typeWindows_a934d8>.wordmark_a934d8:before {
     content: "Discord";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000;
 }
-.wordmark__5b8c9 > svg {
+.wordmark_a934d8 > svg {
   display: none;
 }
 
