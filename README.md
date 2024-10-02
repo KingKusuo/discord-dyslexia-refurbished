@@ -12,7 +12,7 @@
 
 <p align="center">A simple discord theme which makes the app more accommodating to people with dyslexia.
 
-What Discord-Dyslexia-Refurbished is is an updated version of the original theme that actually changes all of the fonts in discord to the OpenDyslexic font.
+What Discord-Dyslexia-Refurbished is is an updated version of the original theme that is still being maintained and actually changes all of the fonts in discord to the OpenDyslexic font.
 </p>
 
 ---
