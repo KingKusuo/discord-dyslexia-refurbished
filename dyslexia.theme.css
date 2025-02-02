@@ -33,13 +33,13 @@
 
 /* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
 
-.typeWindows_a934d8>.wordmark_a934d8:before {
+.typeWindows__421ed>.wordmark__421ed:before {
     content: "Discord";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000;
 }
-.wordmark_a934d8 > svg {
+.wordmark__421ed > svg {
   display: none;
 }
 
