@@ -25,13 +25,23 @@
     --font-headline: "OpenDyslexic";
 }
 
+/* This section is mainly focused on non-english clients, but may apply for english too */
+
 /*Removes the unnecessary scroll arrows besides some text*/
 .eyebrow_cf4812{
   width: 260px;
   height: 1.1rem;
 }
 
+/* Remove scroll arrows from Activity/Game badges */
+.badgeLabel__635ed,
+.lineClamp1__4bd52 {
+    overflow: hidden !important;
+}
+
 /* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
+
+/*DEPRECATED
 
 .typeWindows__421ed>.wordmark__421ed:before {
     content: "Discord";
@@ -42,5 +52,6 @@
 .wordmark__421ed > svg {
   display: none;
 }
+*/
 
 /* ----------------------------------------------------------------------- */
