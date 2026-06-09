@@ -33,4 +33,4 @@ What Discord-Dyslexia-Refurbished is is an updated version of the original theme
 # Credits
 - [OpenDyslexic font](https://opendyslexic.org/)
 - [Qwerasd205](https://github.com/qwerasd205)
-- [@pedrock.](https://github.com/KingKusuo)
+- [@pedro.com](https://github.com/KingKusuo)
