@@ -27,12 +27,6 @@
 
 /* This section is mainly focused on non-english clients, but may apply for english too */
 
-/*Removes the unnecessary scroll arrows besides some text*/
-.eyebrow_cf4812{
-  width: 260px;
-  height: 1.1rem;
-}
-
 /* Remove scroll arrows from Activity/Game badges */
 .badgeLabel__635ed,
 .lineClamp1__4bd52 {
