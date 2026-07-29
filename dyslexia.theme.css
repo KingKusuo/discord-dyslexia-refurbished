@@ -33,6 +33,17 @@
     overflow: hidden !important;
 }
 
+/* Expands the Voice Connection popout to prevent text cutoff */
+.container__50387.popover_d6f39b {
+  width: 350px !important; 
+  max-width: 400px !important; 
+}
+
+/* Ensures the text wraps correctly inside the new width */
+.text-xs\/normal_cf4812 {
+  white-space: normal !important;
+}
+
 /* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
 
 /*DEPRECATED
