@@ -34,9 +34,9 @@
 }
 
 /*Removes the unnecessary scroll arrows besides some text*/
-.eyebrow_cf4812{
-  width: 260px;
-  height: 1.1rem;
+.headerText_aa8da2 {
+  overflow: hidden !important;
+  white-space: nowrap;
 }
 
 /* Expands the Voice Connection popout to prevent text cutoff */
