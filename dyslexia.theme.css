@@ -33,6 +33,12 @@
     overflow: hidden !important;
 }
 
+/*Removes the unnecessary scroll arrows besides some text*/
+.eyebrow_cf4812{
+  width: 260px;
+  height: 1.1rem;
+}
+
 /* Expands the Voice Connection popout to prevent text cutoff */
 .container__50387.popover_d6f39b {
   width: 350px !important; 
