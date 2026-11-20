@@ -50,21 +50,4 @@
 .text-xs\/normal_cf4812 {
   white-space: normal !important;
 }
-
-
-/* Remove this ↓ if you don't want the Discord logo markdown to also have the OpenDyslexic font'*/
-
-/*DEPRECATED
-
-.typeWindows__421ed>.wordmark__421ed:before {
-    content: "Discord";
-    color: rgba(255, 255, 255, .7);
-    font-size: 14px;
-    text-shadow: 0 0 3px #000;
-}
-.wordmark__421ed > svg {
-  display: none;
-}
-*/
-
 /* ----------------------------------------------------------------------- */
